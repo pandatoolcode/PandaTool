@@ -8,11 +8,11 @@ PandaTool熊猫助手是全网最强的一键发币平台，是一个基于区�
 
 ## 一键发币
 标准代币：https://pandatool.org/#/coinrelease/stardand  
-分红本币：https://pandatool.org/#/coinrelease/holdReflection 
+分红本币：https://pandatool.org/#/coinrelease/holdReflection  
 LP分红代币：https://pandatool.org/#/coinrelease/LPReflection  
-LP分红+推荐奖励：https://pandatool.org/#/coinrelease/LPwithInviter
+LP分红+推荐奖励：https://pandatool.org/#/coinrelease/LPwithInviter  
 持币复利+推荐奖励：https://pandatool.org/#/coinrelease/holdWithInviter  
-LP挖矿+推荐奖励：https://pandatool.org/#/coinrelease/LPMine  
+LP挖矿+推荐奖励：https://pandatool.org/#/coinrelease/LPMine   
 手机TP钱包发币：https://help.pandatool.org/createtoken/tp
 
 ## 跨链闪兑（测试币）
