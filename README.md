@@ -11,7 +11,7 @@ PandaTool熊猫助手是全网最强的一键发币工具，支持BSC、Solana�
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pandatoolcode/PandaTool/blob/main/Image/PandaTool%E7%86%8A%E7%8C%AB%E5%8A%A9%E6%89%8B%E9%A6%96%E9%A1%B5.png)
 
-## 一键发币
+## 代币模板/机制
 [标准代币](https://pandatool.org/#/coinrelease/stardand)：干净合约、方便上手、无税无功能、Ave检测全绿
 
 [分红本币](https://pandatool.org/#/coinrelease/holdReflection)：简单干净合约,无黑白名单,无权限,加池自动开盘,持币即可获益
