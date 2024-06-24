@@ -1,5 +1,5 @@
 # PandaTool一键发币助手
-PandaTool熊猫助手是全网最强的一键发币工具，支持BSC、Solana、ETH、Base、Arb、TON等不同区块链发币，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。此外，PandaTool还提供一些附加功能，如跨链闪兑、批量转账空投、批量生成账号、市值管理等，未来还将推出代币预售、代币锁定与解锁、合约审计等多项服务。
+PandaTool全网最强一键发币工具，支持BSC、Solana、ETH、Base、Arb、TON等不同区块链发币，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。此外，PandaTool还提供一些附加功能，如跨链闪兑、批量转账空投、批量生成账号、市值管理等，未来还将推出代币预售、代币锁定与解锁、合约审计等多项服务。
 
 **官网**：https://pandatool.org/
 
@@ -54,6 +54,8 @@ PandaTool熊猫助手是全网最强的一键发币工具，支持BSC、Solana�
 
 [Solana市值管理](https://solana.pandatool.org/swapbot)：Solana代币批量交易、市值管理机器人
 
+[PUMP市值管理](https://help.pandatool.org/sol/swapbotpump)：支持pump.fun内盘代币批量交易
+
 [Solana创建钱包](https://solana.pandatool.org/createwallet)：批量生成Solana钱包，1分钟生成几千个
 
 [Solana发教程](https://help.pandatool.org/sol/stardand)：Solana发币、做池子、销毁LP、市值管理教程
@@ -65,7 +67,11 @@ PandaTool熊猫助手是全网最强的一键发币工具，支持BSC、Solana�
 
 [Ston.fi加池教程](https://help.pandatool.org/ton/ston)：ston.fi是TON链上最大的DEX，可以为任何代币创建流动性
 
+[DeDust加池教程](https://help.pandatool.org/ton/dedust)：DeDust是TON链上增长较快的DEX，支持代币交易、跨链、质押等
+
 [Tonkeeper安装教程](https://help.pandatool.org/ton/tonkeeper)：Tonkeeper是TON链上最流行的钱包之一，发币前必须安装
+
+[Tonraffles锁池教程](https://help.pandatool.org/ton/tonraffles)：tonraffles是TON链知名的锁池/锁仓平台
 
 ## 批量转账（空投）
 [EVM链空投工具](https://pandatool.org/#/multisend )：支持BSC、Base、ETH、Arb等区块链的代币空投
