@@ -1,11 +1,15 @@
 # PandaTool一键发币助手
-PandaTool全网最强一键发币工具，支持BSC、Solana、ETH、Base、Arb、TON等不同区块链发币，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。此外，PandaTool还提供一些附加功能，如跨链闪兑、批量转账空投、批量生成账号、市值管理等，未来还将推出代币预售、代币锁定与解锁、合约审计等多项服务。
+PandaTool全网最强一键发币工具，支持BSC、Solana、SUI、ETH、Base、Arb、TON等不同区块链发币，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。此外，PandaTool还提供一些附加功能，如跨链闪兑、批量转账空投、批量生成账号、市值管理等，未来还将推出代币预售、代币锁定与解锁、合约审计等多项服务。
 
 **官网**：https://pandatool.org/
 
-**Solana发币**：https://solana.pandatool.org/
+**Solana一键发币**：https://solana.pandatool.org/
 
-**TON发币**：https://ton.pandatool.org/
+**TON一键发币**：https://ton.pandatool.org/
+
+**Sui一键发币**：https://sui.pandatool.org/
+
+**波场工具助手**：https://tron.pandatool.org/
 
 **交流群**: https://t.me/pandatool
 
@@ -60,7 +64,7 @@ PandaTool全网最强一键发币工具，支持BSC、Solana、ETH、Base、Arb�
 
 [Solana发教程](https://help.pandatool.org/sol/stardand)：Solana发币、做池子、销毁LP、市值管理教程
 
-## TON链发币
+## TON链一键发币
 [TON发币官网](https://ton.pandatool.org/)：全网最强的TON一键发币平台，支持在电报链创建代币
 
 [TON发币教程](https://help.pandatool.org/ton/stardand)：全网最详细的TON发币教程，一分钟教会你在TON上发币
@@ -72,6 +76,20 @@ PandaTool全网最强一键发币工具，支持BSC、Solana、ETH、Base、Arb�
 [Tonkeeper安装教程](https://help.pandatool.org/ton/tonkeeper)：Tonkeeper是TON链上最流行的钱包之一，发币前必须安装
 
 [Tonraffles锁池教程](https://help.pandatool.org/ton/tonraffles)：tonraffles是TON链知名的锁池/锁仓平台
+
+## Sui链一键发币
+[Sui发币官网](https://sui.pandatool.org/)：全网最强的Sui一键发币平台，支持快速创建代币
+
+[Sui发币教程](https://help.pandatool.org/sui/stardand)：全网最详细的Sui发币教程，一分钟教会你在Sui区块链发币
+
+[Sui权限管理](https://sui.pandatool.org/control)：支持Sui代币进行增发、资料更新等操作
+
+[Sui代币管理教程](https://help.pandatool.org/sui/control)：学会使用PandaTool工具增发Sui代币
+
+## 波场Tron工具助手
+[波场市值管理](https://tron.pandatool.org/)：全网最强的波场市值管理工具，支持批量交易
+
+[波场批量转账](https://tron.pandatool.org/multisend)：全网最强的波场批量转账工具，支持TRX、USDT批量空投
 
 ## 批量转账（空投）
 [EVM链空投工具](https://pandatool.org/#/multisend )：支持BSC、Base、ETH、Arb等区块链的代币空投
